@@ -8,7 +8,7 @@ public class Prob3 {
 		Scanner scanner = new Scanner( System.in  );
 		
 		while(true){
-			System.out.print("¼ıÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+			System.out.print("ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš” : ");
 			int num = scanner.nextInt();
 			int sum = 0;
 			
@@ -23,7 +23,7 @@ public class Prob3 {
 					}
 				}
 			}
-			System.out.println("°á°ú °ª : " + sum);
+			System.out.println("ê²°ê³¼ ê°’ : " + sum);
 		}
 	}
 }
